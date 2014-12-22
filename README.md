@@ -37,11 +37,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Philomela The Lady Fitzvvaters nightingale. By Robert Greene. Vtriusque Academiæ in Artibus magister
+
+1. To the right honourable the Lady
+Bridget Ratliffe, Lady Fitzwaters: Robert
+Greene, wisheth increase of honor
+and vertue.
+
+1. TO THE GENTLEMEN REAders,
+Health.
+
 #####Body#####
-Philomela The Lady Fitzvvaters nightingale. By Robert Greene. Vtriusque Academiæ in Artibus magister
+
+1. The Lady Fitz-waters
+Nightingale.
+
 #####Back#####
-Philomela The Lady Fitzvvaters nightingale. By Robert Greene. Vtriusque Academiæ in Artibus magister
+AT LONDON
+Printed by E. A. for Edwarde
+VVhite, dwelling at the little Northe
+doore of Paules Church,
 **Types of content**
 
   * There are 172 **verse** lines!
